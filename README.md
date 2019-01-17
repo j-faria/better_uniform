@@ -56,3 +56,18 @@ d.interval(1)  # (1.0, 3.0)
 
 That's it!
 
+
+#### Cool, I want it!
+
+```
+pip install better-uniform
+```
+
+or 
+
+```bash
+git clone https://github.com/j-faria/better_uniform.git
+cd better_uniform
+python setup.py install
+```
+
