@@ -71,3 +71,9 @@ cd better_uniform
 python setup.py install
 ```
 
+and later, from Python
+
+```python
+from better_uniform import buniform
+```
+
