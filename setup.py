@@ -8,7 +8,7 @@ with open(path.join(here, 'README.md'), encoding='utf-8') as f:
 
 setup(
     name='better_uniform',
-    version='1.0.3',
+    version='1.0.4',
     url='https://github.com/j-faria/better_uniform.git',
     author='João Faria',
     author_email='joao.faria@astro.up.pt',
