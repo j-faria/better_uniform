@@ -1,4 +1,3 @@
-#from os.path import dirname, join
-#__version__ = open(join(dirname(__file__), 'VERSION')).read().strip()
+__version__ = '1.0.7'
 
 from .better_uniform import buniform
